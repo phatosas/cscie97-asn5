@@ -1,0 +1,121 @@
+
+
+Items that need to be persisted to a Database
+
+
+Asteroids:
+	IDENTIFIER: the given unique identifier for the asteroid (e.g. 1 Ceres, 4 Vesta, 433 Eros, etc)
+	NOTES: description and other notes about the asteroid. Notes can be added over time. Notes have a date, author and text.	EXPLORATION_STATUS:
+		Minerals found, estimated mass, accessibility (e.g. platinum, 20 metric tons, surface deposit).		Water found, quantity, state (e.g. yes, 20 million liters, ice)		Life (none, single cell organisms, multi cell, intelligent, friendly)	ASTEROID_TYPE: (C­Type, M­Type, S­Type, Innerbelt comet)
+	SIZE: width, length, height	MASS: approximate mass	SURFACE_GRAVITY: gravitational field at surface	APHELION: furthest distance from Sun in AUs
+	PERIHELION: closest distance from Sun in AUs
+
+
+Spacecraft:
+	IDENTIFIER: unique spacecraft call sign	LANUCH_DATE: date of launch
+	MISSION: mission identifier	TYPE: (Explorer, Miner)
+	STATUS:		FUEL:Fuel (% remaining)
+		SYSTEMS:			GUIDANCE: (OK, Not OK)			COMMUNICATION LINK: (OK, Not OK)		STATE: (waiting for launch, in route, lost, crashed, landed, exploring, mining, homewardbound, malfunction)
+	LOCATION: (AUs from Sun)
+	DESTINATION: (target Asteroid identifier)
+
+
+Mission (all attributes required):
+	ID: unique id for mission	NAME: name of mission (e.g. “sling shot”),	PURPOSE: purpose of mission (e.g search for water)	SPACECRAFT: spacecraft ids of fully provisioned spacecraft that will perform the mission
+	LAUNCH_DATE: launch date (start time)	ETA: eta, estimated time of arrival	DESTINATION: the destination asteroid for the the Mission
+	STATUS: (waiting for launch, in progress, complete, aborted)
+
+
+Message:
+	ID: unique identifier for the message
+	SPACECRAFT_ID: the unique identifier of the spacecraft sending the message
+	MESSAGE_TYPE: 	
+	NOTES:
+	TARGET_ASTEROID_ID: the unique identifier of the asteroid the spacecraft is approaching/on/leaving
+	DETAILS_TO_UPDATE_MISSION:
+
+
+
+
+
+Enumerations that should be in database:
+
+
+	- MessageType
+		DistressReport
+		RequestRescue
+		RequestRefuel
+		RequestRepair
+		MissionStatusChange
+
+	- AsteroidType
+		A-Type (http://en.wikipedia.org/wiki/A-type_asteroid)
+		K-Type (http://en.wikipedia.org/wiki/K-type_asteroid)
+		L-Type (http://en.wikipedia.org/wiki/L-type_asteroid)
+		Q-Type (http://en.wikipedia.org/wiki/Q-type_asteroid)
+		R-Type (http://en.wikipedia.org/wiki/R-type_asteroid)
+		C-Type (http://en.wikipedia.org/wiki/C-type_asteroid)
+		M-Type (http://en.wikipedia.org/wiki/M-type_asteroid)
+		S-Type (http://en.wikipedia.org/wiki/S-type_asteroid)
+		InnerbeltComet
+		...
+
+	- SpacecraftType
+		Explorer
+		Miner
+		Support
+		Repair
+		Refueler
+		Tow
+
+	- Water
+		Ice
+		Vapor
+		Liquid
+		Plasma (http://www.space.com/23028-super-earth-water-atmosphere-alien-planet.html)
+		
+	- Life
+		None
+		SingleCellOrganisms
+		MultiCellOrganisms
+		Intelligent
+		Friendly
+		Hostile
+
+	- Mineral
+		Gold
+		Palladium
+		Platinum
+		Zinc
+		Copper
+		Silver
+		Strontium
+		Tungsten
+		Magnesium
+		Iron
+		etc.
+
+	- MissionStatus
+		WaitingForLaunch
+		InRoute
+		Lost
+		Crashed
+		Landed
+		Exploring
+		Mining
+		HomewardBound
+		Malfunction
+		Complete
+		Aborted
+
+	- SpacecraftStatus
+		WaitingForLaunch
+		InRoute
+		Lost
+		Crashed
+		Landed
+		Exploring
+		Mining
+		HomewardBound
+		Malfunction
+
