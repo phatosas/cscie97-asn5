@@ -119,3 +119,50 @@ Enumerations that should be in database:
 		HomewardBound
 		Malfunction
 
+
+
+
+----------------
+
+use use case diagram FIRST,
+then do activity diagrams
+
+get to a high level of detail in the activity digrams, also show swimlanes between components
+
+
+actors in use case diagram should include Spacecraft as an actor, also Mission Control Admins, etc.
+
+Module Component Diagram:
+
+    - modules (or high-level components):
+        Asteroid Invetory System
+        Spacecraft Management System
+        Mission Control System
+        Command & Control UI
+        (maybe)??  Data Persistence System??
+        Authentication Service
+        
+
+
+How do we define persistence?
+    - use the class dictionary to indicate:
+        - which classes NEED to be persisted
+        - what the unique identifier is for each object in the database (what is the key to do lookups)
+        - indicate when things are created, updated in the database
+                
+
+Use MVC architecture for wireframe mockups of UI
+    - indicate which controller communicates with what Service        
+        
+        
+Look to use Mediator pattern on where Mission Control interacts with SPacecraft; also where other design paterns can be used
+
+
+One testing section and one risk section are useful at the end
+
+DON'T FORGET results document to answer the questions
+
+
+        
+
+
