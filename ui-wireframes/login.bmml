@@ -57,5 +57,10 @@
         <text>Please%20enter%20your%20credentials%20to%20use%20the%20system.%20%20If%20you%27ve%20forgotten%20your%20username%20or%20password%2C%20contact%20%5BCentral%20Control%5D%20to%20re-establish%20your%20system%20identity%20and%20credentials.</text>
       </controlProperties>
     </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::StickyNote" x="63" y="230" w="109" h="133" measuredW="109" measuredH="123" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>users%20enter%20their%20credentials%20here%20to%20authenticate%20and%20login</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

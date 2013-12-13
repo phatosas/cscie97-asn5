@@ -2,7 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="41" y="21" w="800" h="769" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Asteroid%20Exploration%20System%20%3A%20Login%0Ahttp%3A//nasa.gov/cscie97/asteroidexploration/login</text>
+        <text>Asteroid%20Exploration%20System%20%3A%20Missions%20%3A%20List%20Missions%0Ahttp%3A//nasa.gov/cscie97/asteroidexploration/missions/list</text>
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="41" y="117" w="800" h="-1" measuredW="512" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
@@ -118,71 +118,66 @@
         <icon>Trash2Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Icon" x="602" y="496" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>Alert2Icon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="632" y="496" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="632" y="496" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>AlarmClockIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="659" y="496" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="659" y="496" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>LightningIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="181" y="528" w="-1" h="-1" measuredW="264" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="181" y="528" w="-1" h="-1" measuredW="264" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>%5BMine%204%20Vesta%20for%20Zinc%20and%20Tungsten%5D</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Icon" x="542" y="528" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Icon" x="542" y="528" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CheckMarkIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Icon" x="570" y="528" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Icon" x="570" y="528" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>Trash2Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="181" y="559" w="-1" h="-1" measuredW="222" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="181" y="559" w="-1" h="-1" measuredW="222" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>%5BBuild%20surface%20map%20of%20433%20Eros%5D</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Icon" x="542" y="559" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Icon" x="542" y="559" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CheckMarkIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Icon" x="570" y="559" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Icon" x="570" y="559" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>Trash2Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Icon" x="632" y="559" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>AlarmClockIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="358" y="605" w="-1" h="-1" measuredW="168" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="358" y="605" w="-1" h="-1" measuredW="168" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <text>prev%20%3C%3C%20Page%20%5B1%5D%20of%207%20%3E%3E%20%5Bnext%5D</text>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::Icon" x="632" y="465" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>AlarmClockIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="107" controlTypeID="com.balsamiq.mockups::Icon" x="542" y="465" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Icon" x="542" y="465" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CheckMarkIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::StickyNote" x="695" y="316" w="137" h="385" measuredW="109" measuredH="123" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>the%20status%20flags%20mean%3A%0Acheckmark%3A%20everything%20is%20fine%20with%20mission%0Atrash%20can%3A%20delete%20mission%0Aexclamation%20mark%3A%20critical%20status%20problem%20with%20mission%0Aalarm%20clock%3A%20mission%20is%20behind%20estimated%20schedule%0Alighting%20bolt%3A%20problem%20with%20radio%20communication%20to%20spacecraft%28s%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Icon" x="300" y="373" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>UpDownFillTriangleIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>

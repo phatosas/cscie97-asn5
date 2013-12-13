@@ -2,7 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="41" y="21" w="800" h="1026" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Asteroid%20Exploration%20System%20%3A%20Login%0Ahttp%3A//nasa.gov/cscie97/asteroidexploration/login</text>
+        <text>Asteroid%20Exploration%20System%20%3A%20Missions%20%3A%20Update%20Mission%20Status%0Ahttp%3A//nasa.gov/cscie97/asteroidexploration/missions/update</text>
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="41" y="117" w="800" h="-1" measuredW="512" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
@@ -129,10 +129,11 @@
     </control>
     <control controlID="34" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="315" y="675" w="-1" h="-1" measuredW="375" measuredH="105" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>10066329</color>
         <text>%5Bx%5D%20Radiance%20%28type%3A%20miner%2C%20cargo%20capacity%3A%201.5%20tons%29%0A%5Bx%5D%20Vigilance%20%28type%3A%20refueler%2C%20fuel%20capacity%3A%206000%20liters%29%0A%5Bx%5D%20Hyperion%20%28type%3A%20heavy%20excavator%29%0A%5Bx%5D%20Xeroen%20%28type%3A%20materials%20analysis%29%0A%5Bx%5D%20Meroleseum%20%28type%3A%20support%20%26%20repair%2C%20towing%20capacity%3A%201%20ton%29</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="181" y="675" w="377" h="-1" measuredW="125" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="181" y="675" w="128" h="-1" measuredW="125" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <state>disabled</state>
         <text>Deployed%20Spacecraft</text>
@@ -172,6 +173,27 @@
     <control controlID="42" controlTypeID="com.balsamiq.mockups::Icon" x="291" y="374" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>LightningIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="188" y="791" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Update%20Status</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ComboBox" x="306" y="795" w="-1" h="-1" measuredW="183" measuredH="109" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bselect%20new%20mission%20status%5D%0AWaiting%20For%20Launch%0AIn%20Progress%0AComplete%0AAborted%0ACancelled</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::StickyNote" x="544" y="802" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>admins%20may%20change%20the%20mission%20status%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::VCurly" x="708" y="413" w="99" h="367" measuredW="180" measuredH="140" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>these%20fields%20are%20not%20editable%20now</text>
       </controlProperties>
     </control>
   </controls>
