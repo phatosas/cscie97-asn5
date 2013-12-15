@@ -163,6 +163,20 @@ One testing section and one risk section are useful at the end
 DON'T FORGET results document to answer the questions
 
 
-        
 
+
+
+how to receive messages from spacecraft:
+
+- have communication link and mission control center
+
+- comm link can PUSH messages to mission control center (or mission control center can LISTEN to messages - use Observer pattern)
+
+- comm link can get radio messages from spacecraft, and then pass the messages to the mission control center
+    - then mission control center can dispatch messages to the spacecraft management system to update their 
+        properties, and also send message to asteriod inventory system to update their properties
+
+
+
+ALTERNATIVE IDEA: have each system listen for messages from the spacecraft
 
