@@ -423,7 +423,7 @@
         <underline>true</underline>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::TextInput" x="256" y="880" w="57" h="-1" measuredW="79" measuredH="26" zOrder="71" locked="false" isInGroup="-1">
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::TextInput" x="263" y="880" w="37" h="-1" measuredW="79" measuredH="26" zOrder="71" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
@@ -446,6 +446,12 @@
     <control controlID="113" controlTypeID="com.balsamiq.mockups::StickyNote" x="693" y="826" w="128" h="177" measuredW="109" measuredH="123" zOrder="75" locked="false" isInGroup="-1">
       <controlProperties>
         <text>admins%20may%20append%20to%20the%20spacecraft%20status%20log%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Label" x="300" y="883" w="-1" h="-1" measuredW="13" measuredH="21" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>%25</text>
       </controlProperties>
     </control>
   </controls>
