@@ -195,5 +195,10 @@
         <icon>ClubIcon%7Csmall</icon>
       </controlProperties>
     </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Button" x="369" y="332" w="-1" h="-1" measuredW="145" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20New%20Asteroid</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

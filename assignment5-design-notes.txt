@@ -180,3 +180,47 @@ how to receive messages from spacecraft:
 
 ALTERNATIVE IDEA: have each system listen for messages from the spacecraft
 
+
+
+
+
+
+
+
+
+
+A-Type
+C-Type
+K-Type
+L-Type
+M-Type
+Q-Type
+R-Type
+S-Type
+InnerbeltComet
+
+
+
+
+
+
+[Explore Ceres 1 Asteroid for Water Resources]
+[Mine 4 Vesta for Zinc and Tungsten]
+[Build surface map of 433 Eros]
+
+
+Miner
+Refueler
+Materials Analysis
+Heavy Excavator
+Support & Repair
+Surface Mapper
+
+
+
+Ceres 1
+4 Vesta
+433 Eros
+253 Mathilde
+
+
