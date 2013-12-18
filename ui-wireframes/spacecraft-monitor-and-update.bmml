@@ -255,5 +255,10 @@
         <text>the%20indicator%20icons%20mean%3A%0Abattery%3A%20indicates%20approximate%20power%20remaining%0Avertical%20bars%3A%20displays%20health%20of%20radio%20communication%20strength%0Aexclamation%20mark%3A%20warning%2C%20status%20problem%20with%20spacecraft%0Alighting%20bolt%3A%20indicates%20a%20problem%20is%20present%20with%20radio%20transmission/reception%0Aglobe%3A%20indicates%20spacecraft%20is%20returning%20to%20earth</text>
       </controlProperties>
     </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Button" x="360" y="337" w="-1" h="-1" measuredW="162" measuredH="27" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20New%20Spacecraft</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
