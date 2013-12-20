@@ -120,6 +120,14 @@ Enumerations that should be in database:
 		Malfunction
 
 
+- GuidanceStatus
+ALL_OK
+SATELLITE_UPLINK_DOWN
+SYSTEM_FAILURE
+POWER_FAILURE
+FUSE_BLOWN
+SOLAR_PANEL_FAILURE
+
 
 
 ----------------

@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="841" measuredH="1710" mockupW="800" mockupH="1690">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="841" measuredH="1053" mockupW="800" mockupH="1033">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="41" y="20" w="800" h="1690" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="41" y="20" w="800" h="1033" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Asteroid%20Exploration%20System%20%3A%20Asteroids%20%3A%20Search%20For%20Asteroids%0Ahttp%3A//nasa.gov/cscie97/asteroidexploration/asteroid/search</text>
       </controlProperties>
@@ -37,7 +37,7 @@
         <text>Welcome%2C%20%5Bdkilleffer%5D.</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::LinkBar" x="212" y="1643" w="-1" h="-1" measuredW="458" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::LinkBar" x="212" y="986" w="-1" h="-1" measuredW="458" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Home%2C%20Missions%2C%20Spacecraft%2C%20Asteroids%2C%20Resources%2C%20Communications</text>
       </controlProperties>
@@ -54,19 +54,19 @@
         <text>Asteroid%20Search%20Terms</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="438" y="1583" w="-1" h="-1" measuredW="123" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="438" y="926" w="-1" h="-1" measuredW="123" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search%20Asteroids</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="329" y="1583" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="329" y="926" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Clear%20Form</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::StickyNote" x="56" y="332" w="92" h="230" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::StickyNote" x="56" y="332" w="92" h="495" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>admins%20may%20view%20all%20current%20asteroid%20detailed%20info%20here%2C%20as%20well%20as%20browse%20past%20notes%20updates%20and%20exploration%20discoveries%20%28minerals%2C%20life%2C%20water%29</text>
+        <text>admins%20may%20search%20for%20all%20asteroids%20that%20match%20any%20of%20the%20entered%20criteria%20here%3B%20similar%20searches%20are%20available%20for%20both%20Missions%20and%20Spacecraft%20%28though%20separate%20search%20wireframes%20for%20Missions%20and%20Spacecraft%20isn%27t%20shown%29</text>
       </controlProperties>
     </control>
     <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="203" y="376" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
@@ -75,586 +75,223 @@
         <text>Asteroid%20Types</text>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="188" y="739" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Primary%20Notes</text>
-      </controlProperties>
-    </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::ComboBox" x="300" y="707" w="393" h="-1" measuredW="71" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>C-type</text>
-      </controlProperties>
-    </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="144" y="874" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Historical%20Notes</text>
-      </controlProperties>
-    </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextArea" x="144" y="920" w="549" h="128" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text/>
-        <value>43</value>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="144" y="897" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Note%20Date</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="240" y="897" w="-1" h="-1" measuredW="76" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Note%20Author</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="341" y="897" w="-1" h="-1" measuredW="37" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Notes</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="150" y="927" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-02</text>
-      </controlProperties>
-    </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="240" y="927" w="57" h="-1" measuredW="52" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>dkilleffer</text>
-      </controlProperties>
-    </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::HRule" x="150" y="948" w="520" h="-1" measuredW="100" measuredH="10" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="150" y="957" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-03</text>
-      </controlProperties>
-    </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="240" y="957" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>dkilleffer</text>
-      </controlProperties>
-    </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::HRule" x="150" y="978" w="520" h="-1" measuredW="100" measuredH="10" zOrder="27" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="148" y="987" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-04</text>
-      </controlProperties>
-    </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="240" y="987" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>dkilleffer</text>
-      </controlProperties>
-    </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::HRule" x="148" y="1008" w="520" h="-1" measuredW="100" measuredH="10" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="148" y="1017" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-05</text>
-      </controlProperties>
-    </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="240" y="1017" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>dkilleffer</text>
-      </controlProperties>
-    </control>
-    <control controlID="93" controlTypeID="com.balsamiq.mockups::HRule" x="148" y="1038" w="520" h="-1" measuredW="100" measuredH="10" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="144" y="1268" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>up</state>
-        <text>Append%20Note</text>
-      </controlProperties>
-    </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="736" w="393" h="-1" measuredW="343" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.</text>
-      </controlProperties>
-    </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="249" y="772" w="40" h="-1" measuredW="34" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Width</text>
-      </controlProperties>
-    </control>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="769" w="69" h="-1" measuredW="40" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>25.5</text>
-      </controlProperties>
-    </control>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="408" y="772" w="40" h="-1" measuredW="39" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Height</text>
-      </controlProperties>
-    </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::TextInput" x="459" y="769" w="69" h="-1" measuredW="40" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>25.5</text>
-      </controlProperties>
-    </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="572" y="772" w="44" h="-1" measuredW="42" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Length</text>
-      </controlProperties>
-    </control>
-    <control controlID="120" controlTypeID="com.balsamiq.mockups::TextInput" x="623" y="769" w="69" h="-1" measuredW="40" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>25.5</text>
-      </controlProperties>
-    </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="408" y="805" w="40" h="-1" measuredW="32" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Mass</text>
-      </controlProperties>
-    </control>
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="802" w="69" h="-1" measuredW="73" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>0.003456</text>
-      </controlProperties>
-    </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="194" y="805" w="97" h="-1" measuredW="93" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Surface%20Gravity</text>
-      </controlProperties>
-    </control>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::TextInput" x="459" y="802" w="69" h="-1" measuredW="65" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>98424.5</text>
-      </controlProperties>
-    </control>
-    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="388" y="837" w="60" h="-1" measuredW="56" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Perihelion</text>
-      </controlProperties>
-    </control>
-    <control controlID="128" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="834" w="69" h="-1" measuredW="46" measuredH="27" zOrder="47" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>5834</text>
-      </controlProperties>
-    </control>
-    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="234" y="837" w="55" h="-1" measuredW="50" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Aphelion</text>
-      </controlProperties>
-    </control>
-    <control controlID="130" controlTypeID="com.balsamiq.mockups::TextInput" x="459" y="834" w="69" h="-1" measuredW="53" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>12324</text>
-      </controlProperties>
-    </control>
-    <control controlID="132" controlTypeID="com.balsamiq.mockups::Label" x="341" y="927" w="338" h="-1" measuredW="329" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.</text>
-      </controlProperties>
-    </control>
-    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="341" y="957" w="338" h="-1" measuredW="329" measuredH="21" zOrder="51" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.</text>
-      </controlProperties>
-    </control>
-    <control controlID="134" controlTypeID="com.balsamiq.mockups::Label" x="341" y="987" w="338" h="-1" measuredW="329" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.</text>
-      </controlProperties>
-    </control>
-    <control controlID="135" controlTypeID="com.balsamiq.mockups::Label" x="341" y="1017" w="338" h="-1" measuredW="329" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.</text>
-      </controlProperties>
-    </control>
-    <control controlID="136" controlTypeID="com.balsamiq.mockups::Label" x="144" y="1074" w="-1" h="-1" measuredW="191" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Past%20Exploration%20Status%20Updates</text>
-      </controlProperties>
-    </control>
-    <control controlID="137" controlTypeID="com.balsamiq.mockups::TextArea" x="144" y="1120" w="549" h="128" measuredW="200" measuredH="140" zOrder="55" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text/>
-        <value>23</value>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Label" x="144" y="1097" w="-1" h="-1" measuredW="30" measuredH="21" zOrder="56" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Date</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="240" y="1097" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="57" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Minerals</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="140" controlTypeID="com.balsamiq.mockups::Label" x="378" y="1097" w="-1" h="-1" measuredW="24" measuredH="21" zOrder="58" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Life</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="150" y="1127" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="59" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-02</text>
-      </controlProperties>
-    </control>
-    <control controlID="142" controlTypeID="com.balsamiq.mockups::Label" x="240" y="1127" w="89" h="-1" measuredW="75" measuredH="21" zOrder="60" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Zinc%2C%2010%20tons</text>
-      </controlProperties>
-    </control>
-    <control controlID="143" controlTypeID="com.balsamiq.mockups::HRule" x="150" y="1148" w="520" h="-1" measuredW="100" measuredH="10" zOrder="61" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="144" controlTypeID="com.balsamiq.mockups::Label" x="150" y="1157" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="62" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-03</text>
-      </controlProperties>
-    </control>
-    <control controlID="146" controlTypeID="com.balsamiq.mockups::HRule" x="150" y="1178" w="520" h="-1" measuredW="100" measuredH="10" zOrder="63" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="148" y="1187" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="64" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-04</text>
-      </controlProperties>
-    </control>
-    <control controlID="149" controlTypeID="com.balsamiq.mockups::HRule" x="148" y="1208" w="520" h="-1" measuredW="100" measuredH="10" zOrder="65" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="150" controlTypeID="com.balsamiq.mockups::Label" x="148" y="1217" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="66" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>2125-11-05</text>
-      </controlProperties>
-    </control>
-    <control controlID="152" controlTypeID="com.balsamiq.mockups::HRule" x="148" y="1238" w="520" h="-1" measuredW="100" measuredH="10" zOrder="67" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="157" controlTypeID="com.balsamiq.mockups::Label" x="504" y="1097" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="68" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>disabled</state>
-        <text>Water</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="159" controlTypeID="com.balsamiq.mockups::Label" x="378" y="1157" w="89" h="-1" measuredW="87" measuredH="21" zOrder="69" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>bacterial%2Cin%20ice</text>
-      </controlProperties>
-    </control>
-    <control controlID="160" controlTypeID="com.balsamiq.mockups::Label" x="504" y="1157" w="132" h="-1" measuredW="115" measuredH="21" zOrder="70" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>5%20trillion%20gallons%2C%20ice</text>
-      </controlProperties>
-    </control>
-    <control controlID="161" controlTypeID="com.balsamiq.mockups::Label" x="240" y="1187" w="129" h="-1" measuredW="120" measuredH="21" zOrder="71" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Tungsten%2C%200.25%20tons</text>
-      </controlProperties>
-    </control>
-    <control controlID="162" controlTypeID="com.balsamiq.mockups::Label" x="240" y="1217" w="129" h="-1" measuredW="95" measuredH="21" zOrder="72" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Copper%2C%209K%20tons</text>
-      </controlProperties>
-    </control>
-    <control controlID="163" controlTypeID="com.balsamiq.mockups::TextArea" x="141" y="1289" w="552" h="71" measuredW="200" measuredH="140" zOrder="73" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="164" controlTypeID="com.balsamiq.mockups::StickyNote" x="698" y="956" w="128" h="177" measuredW="109" measuredH="123" zOrder="74" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>when%20appending%20a%20new%20note%2C%20the%20system%20automatically%20detects%20the%20current%20user%20and%20time%20and%20uses%20those%20values</text>
-      </controlProperties>
-    </control>
-    <control controlID="165" controlTypeID="com.balsamiq.mockups::Label" x="141" y="1375" w="-1" h="-1" measuredW="138" measuredH="21" zOrder="75" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>up</state>
-        <text>New%20Discovery%20Details</text>
-      </controlProperties>
-    </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::Label" x="144" y="1411" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="76" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>up</state>
-        <text>Mineral%20Type</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="168" controlTypeID="com.balsamiq.mockups::ComboBox" x="141" y="1433" w="-1" h="-1" measuredW="139" measuredH="93" zOrder="77" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5Benter%20mineral%20type%5D%0ACopper%0AZinc%0ATungsten%0AIron</text>
-      </controlProperties>
-    </control>
-    <control controlID="169" controlTypeID="com.balsamiq.mockups::Label" x="295" y="1411" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="78" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>up</state>
-        <text>Mineral%20Accessiblity</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="170" controlTypeID="com.balsamiq.mockups::ComboBox" x="292" y="1433" w="-1" h="-1" measuredW="140" measuredH="93" zOrder="79" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5Benter%20accessibility%5D%0ABuried%20%3E%203%20miles%20deep%0ASurface%20Level%0A%3E%201%20mile%20above%20ground%0AEncased%20in%20Ice</text>
-      </controlProperties>
-    </control>
-    <control controlID="171" controlTypeID="com.balsamiq.mockups::Label" x="451" y="1411" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="80" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>up</state>
-        <text>Water</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="172" controlTypeID="com.balsamiq.mockups::ComboBox" x="448" y="1433" w="-1" h="-1" measuredW="94" measuredH="93" zOrder="81" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5Bwater%20type%5D%0ALiquid%0AIce%0AVapor%0APlasma</text>
-      </controlProperties>
-    </control>
-    <control controlID="173" controlTypeID="com.balsamiq.mockups::Label" x="556" y="1411" w="-1" h="-1" measuredW="24" measuredH="21" zOrder="82" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <state>up</state>
-        <text>Life</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="174" controlTypeID="com.balsamiq.mockups::ComboBox" x="553" y="1433" w="-1" h="-1" measuredW="83" measuredH="124" zOrder="83" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5Benter%20life%5D%0AMicrobial%0ABacterial%0AHumaoid%0AHostile%0AFriendly%0AAdvanced</text>
-      </controlProperties>
-    </control>
-    <control controlID="176" controlTypeID="com.balsamiq.mockups::Label" x="225" y="452" w="64" h="-1" measuredW="60" measuredH="21" zOrder="84" locked="false" isInGroup="-1">
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Label" x="225" y="452" w="64" h="-1" measuredW="60" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <state>up</state>
         <text>Min.%20Width</text>
       </controlProperties>
     </control>
-    <control controlID="177" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="449" w="69" h="-1" measuredW="22" measuredH="27" zOrder="85" locked="false" isInGroup="-1">
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="449" w="69" h="-1" measuredW="22" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <state>up</state>
         <text>0</text>
       </controlProperties>
     </control>
-    <control controlID="178" controlTypeID="com.balsamiq.mockups::Label" x="456" y="452" w="70" h="-1" measuredW="65" measuredH="21" zOrder="86" locked="false" isInGroup="-1">
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Label" x="456" y="452" w="70" h="-1" measuredW="65" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <state>up</state>
         <text>Max.%20Width</text>
       </controlProperties>
     </control>
-    <control controlID="179" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="449" w="69" h="-1" measuredW="90" measuredH="27" zOrder="87" locked="false" isInGroup="-1">
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="449" w="69" h="-1" measuredW="90" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <state>up</state>
         <text>9999999999</text>
       </controlProperties>
     </control>
-    <control controlID="182" controlTypeID="com.balsamiq.mockups::Label" x="408" y="593" w="40" h="-1" measuredW="32" measuredH="21" zOrder="88" locked="false" isInGroup="-1">
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Label" x="203" y="601" w="83" h="-1" measuredW="76" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <state>disabled</state>
-        <text>Mass</text>
+        <state>up</state>
+        <text>Min.%20Aphelion</text>
       </controlProperties>
     </control>
-    <control controlID="185" controlTypeID="com.balsamiq.mockups::TextInput" x="459" y="590" w="69" h="-1" measuredW="65" measuredH="27" zOrder="89" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>98424.5</text>
-      </controlProperties>
-    </control>
-    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="388" y="625" w="60" h="-1" measuredW="56" measuredH="21" zOrder="90" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Perihelion</text>
-      </controlProperties>
-    </control>
-    <control controlID="187" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="622" w="69" h="-1" measuredW="46" measuredH="27" zOrder="91" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>5834</text>
-      </controlProperties>
-    </control>
-    <control controlID="188" controlTypeID="com.balsamiq.mockups::Label" x="234" y="625" w="55" h="-1" measuredW="50" measuredH="21" zOrder="92" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-        <text>Aphelion</text>
-      </controlProperties>
-    </control>
-    <control controlID="189" controlTypeID="com.balsamiq.mockups::TextInput" x="459" y="622" w="69" h="-1" measuredW="53" measuredH="27" zOrder="93" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>12324</text>
-      </controlProperties>
-    </control>
-    <control controlID="190" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="300" y="376" w="88" h="65" measuredW="72" measuredH="61" zOrder="94" locked="false" isInGroup="-1">
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="300" y="376" w="88" h="65" measuredW="72" measuredH="61" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5Bx%5D%20A-Type%0A%5Bx%5D%20C-Type%0A%5Bx%5D%20K-Type</text>
       </controlProperties>
     </control>
-    <control controlID="191" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="420" y="376" w="96" h="64" measuredW="73" measuredH="61" zOrder="95" locked="false" isInGroup="-1">
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="420" y="376" w="96" h="64" measuredW="73" measuredH="61" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5Bx%5D%20L-Type%0A%5Bx%5D%20M-Type%0A%5Bx%5D%20Q-Type</text>
       </controlProperties>
     </control>
-    <control controlID="192" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="560" y="376" w="128" h="65" measuredW="121" measuredH="61" zOrder="96" locked="false" isInGroup="-1">
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="560" y="376" w="128" h="65" measuredW="121" measuredH="61" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5Bx%5D%20R-Type%0A%5Bx%5D%20S-Type%0A%5Bx%5D%20InnerbeltComet</text>
       </controlProperties>
     </control>
-    <control controlID="194" controlTypeID="com.balsamiq.mockups::Label" x="219" y="488" w="70" h="-1" measuredW="69" measuredH="21" zOrder="97" locked="false" isInGroup="-1">
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::Label" x="219" y="488" w="70" h="-1" measuredW="69" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <state>up</state>
         <text>Min.%20Length</text>
       </controlProperties>
     </control>
-    <control controlID="195" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="485" w="69" h="-1" measuredW="22" measuredH="27" zOrder="98" locked="false" isInGroup="-1">
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="485" w="69" h="-1" measuredW="22" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <state>up</state>
         <text>0</text>
       </controlProperties>
     </control>
-    <control controlID="196" controlTypeID="com.balsamiq.mockups::Label" x="456" y="488" w="81" h="-1" measuredW="73" measuredH="21" zOrder="99" locked="false" isInGroup="-1">
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Label" x="456" y="488" w="81" h="-1" measuredW="73" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <state>up</state>
         <text>Max.%20Length</text>
       </controlProperties>
     </control>
-    <control controlID="197" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="485" w="69" h="-1" measuredW="90" measuredH="27" zOrder="100" locked="false" isInGroup="-1">
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="485" w="69" h="-1" measuredW="90" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <state>up</state>
         <text>9999999999</text>
       </controlProperties>
     </control>
-    <control controlID="199" controlTypeID="com.balsamiq.mockups::TextInput" x="298" y="524" w="71" h="-1" measuredW="65" measuredH="27" zOrder="101" locked="false" isInGroup="-1">
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::TextInput" x="298" y="524" w="71" h="-1" measuredW="65" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <state>up</state>
         <text>0.00000</text>
       </controlProperties>
     </control>
-    <control controlID="200" controlTypeID="com.balsamiq.mockups::Label" x="163" y="527" w="125" h="-1" measuredW="120" measuredH="21" zOrder="102" locked="false" isInGroup="-1">
+    <control controlID="200" controlTypeID="com.balsamiq.mockups::Label" x="163" y="527" w="125" h="-1" measuredW="120" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <state>up</state>
         <text>Min.%20Surface%20Gravity</text>
       </controlProperties>
     </control>
-    <control controlID="201" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="524" w="71" h="-1" measuredW="67" measuredH="27" zOrder="103" locked="false" isInGroup="-1">
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="524" w="71" h="-1" measuredW="67" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <state>up</state>
         <text>9999999</text>
       </controlProperties>
     </control>
-    <control controlID="202" controlTypeID="com.balsamiq.mockups::Label" x="402" y="527" w="125" h="-1" measuredW="124" measuredH="21" zOrder="104" locked="false" isInGroup="-1">
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::Label" x="402" y="527" w="125" h="-1" measuredW="124" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <state>up</state>
         <text>Max.%20Surface%20Gravity</text>
       </controlProperties>
     </control>
-    <control controlID="203" controlTypeID="com.balsamiq.mockups::Label" x="249" y="565" w="40" h="-1" measuredW="32" measuredH="21" zOrder="105" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>up</state>
-        <text>Mass</text>
-      </controlProperties>
-    </control>
-    <control controlID="204" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="562" w="69" h="-1" measuredW="65" measuredH="27" zOrder="106" locked="false" isInGroup="-1">
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::TextInput" x="298" y="562" w="71" h="-1" measuredW="65" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
-        <state>disabled</state>
-        <text>98424.5</text>
+        <state>up</state>
+        <text>0.00000</text>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::Label" x="225" y="565" w="62" h="-1" measuredW="59" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Min.%20Mass</text>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::TextInput" x="537" y="562" w="71" h="-1" measuredW="67" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <state>up</state>
+        <text>9999999</text>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::Label" x="459" y="565" w="65" h="-1" measuredW="63" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Max.%20Mass</text>
+      </controlProperties>
+    </control>
+    <control controlID="209" controlTypeID="com.balsamiq.mockups::TextInput" x="298" y="598" w="71" h="-1" measuredW="65" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <state>up</state>
+        <text>0.00000</text>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Label" x="442" y="601" w="83" h="-1" measuredW="81" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Max.%20Aphelion</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::TextInput" x="535" y="598" w="71" h="-1" measuredW="67" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <state>up</state>
+        <text>9999999</text>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::Label" x="203" y="634" w="83" h="-1" measuredW="83" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Min.%20Perihelion</text>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::TextInput" x="298" y="631" w="71" h="-1" measuredW="65" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <state>up</state>
+        <text>0.00000</text>
+      </controlProperties>
+    </control>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::Label" x="433" y="634" w="94" h="-1" measuredW="87" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Max.%20Perihelion</text>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::TextInput" x="535" y="631" w="71" h="-1" measuredW="67" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <state>up</state>
+        <text>9999999</text>
+      </controlProperties>
+    </control>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::Label" x="199" y="670" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Minerals%20Found</text>
+      </controlProperties>
+    </control>
+    <control controlID="219" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="296" y="670" w="121" h="65" measuredW="116" measuredH="61" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Gold%0A%5Bx%5D%20Iron%0A%5Bx%5D%20Iron-Nickel%20Ore</text>
+      </controlProperties>
+    </control>
+    <control controlID="220" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="416" y="670" w="96" h="64" measuredW="79" measuredH="61" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Platinum%0A%5Bx%5D%20Silver%0A%5Bx%5D%20Titanium</text>
+      </controlProperties>
+    </control>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="556" y="670" w="128" h="65" measuredW="85" measuredH="61" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Paladium%0A%5Bx%5D%20Plutonium%0A%5Bx%5D%20Uranium</text>
+      </controlProperties>
+    </control>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::Label" x="199" y="750" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Life%20Found</text>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="296" y="750" w="170" h="65" measuredW="160" measuredH="127" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20None%0A%5Bx%5D%20Single-Cell%20Organisms%0A%5Bx%5D%20Multi-Cell%20Organisms%0A%5Bx%5D%20Intelligent%0A%5Bx%5D%20Friendly%0A%5Bx%5D%20Hostile</text>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="482" y="750" w="96" h="64" measuredW="87" measuredH="61" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Intelligent%0A%5Bx%5D%20Friendly%0A%5Bx%5D%20Hostile</text>
+      </controlProperties>
+    </control>
+    <control controlID="227" controlTypeID="com.balsamiq.mockups::Label" x="194" y="824" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Water%20Found</text>
+      </controlProperties>
+    </control>
+    <control controlID="228" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="295" y="824" w="88" h="87" measuredW="71" measuredH="105" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Ice%0A%5Bx%5D%20Liquid%0A%5Bx%5D%20Vapor%0A%5B%5D%20Plasma%0A%20</text>
       </controlProperties>
     </control>
   </controls>
